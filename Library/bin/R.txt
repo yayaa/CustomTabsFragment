@@ -1,0 +1,7 @@
+int drawable blue_pattern 0x7f020000
+int drawable ic_launcher 0x7f020001
+int drawable spacer 0x7f020002
+int drawable tab_selector 0x7f020003
+int string app_name 0x7f030000
+int style AppBaseTheme 0x7f040000
+int style AppTheme 0x7f040001
