@@ -1,7 +1,7 @@
 CustomTabsFragment
 ==================
 
-### This library is no longer maintained
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 This library is basically changes fragments on selection of tabs, which are based on ActionBarSherlock 
 TabIndicators so you can easily modify them. And it provides a controller class that handles selection, reselection 
